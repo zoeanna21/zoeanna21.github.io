@@ -1,1 +1,174 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T11:10:04.884Z" agent="5.0 (Windows)" version="14.4.8" etag="buvwOqKgXnzKdP-h9K89" type="github"><diagram id="H_uC5qnMEIIDU2FH9p4h">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-16T11:30:59.083Z" agent="5.0 (Windows)" etag="MB_6Zl14GWl0Su9AgT5_" version="14.4.8" type="github" pages="3">
+  <diagram id="H_uC5qnMEIIDU2FH9p4h" name="Page-1">
+    <mxGraphModel dx="1038" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wPuLjgPU27LRzkvxFw3h-1" value="Car" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wPuLjgPU27LRzkvxFw3h-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wPuLjgPU27LRzkvxFw3h-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wPuLjgPU27LRzkvxFw3h-4" value="Engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wPuLjgPU27LRzkvxFw3h-5" value="ElectricCar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wPuLjgPU27LRzkvxFw3h-6" value="ElectricMotor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wPuLjgPU27LRzkvxFw3h-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="310" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wPuLjgPU27LRzkvxFw3h-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wPuLjgPU27LRzkvxFw3h-9" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="wPuLjgPU27LRzkvxFw3h-5" target="wPuLjgPU27LRzkvxFw3h-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="290" as="sourcePoint" />
+            <mxPoint x="200" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wPuLjgPU27LRzkvxFw3h-10" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419.5" y="280" as="sourcePoint" />
+            <mxPoint x="419.5" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="527DeEWd8Kz5GQwYQghI" name="Page-2">
+    <mxGraphModel dx="1038" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="3AlfrjpmLpkVlpKZ16Wm-0" />
+        <mxCell id="3AlfrjpmLpkVlpKZ16Wm-1" parent="3AlfrjpmLpkVlpKZ16Wm-0" />
+        <mxCell id="0hDwm_g0khshZLAf0ZS5-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="3AlfrjpmLpkVlpKZ16Wm-1">
+          <mxGeometry x="480" y="40" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0hDwm_g0khshZLAf0ZS5-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="3AlfrjpmLpkVlpKZ16Wm-1">
+          <mxGeometry x="280" y="40" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0hDwm_g0khshZLAf0ZS5-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="3AlfrjpmLpkVlpKZ16Wm-1">
+          <mxGeometry x="360" y="360" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0hDwm_g0khshZLAf0ZS5-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="3AlfrjpmLpkVlpKZ16Wm-1">
+          <mxGeometry x="160" y="360" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0hDwm_g0khshZLAf0ZS5-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="3AlfrjpmLpkVlpKZ16Wm-1">
+          <mxGeometry x="690" y="260" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0hDwm_g0khshZLAf0ZS5-10" value="Car" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AlfrjpmLpkVlpKZ16Wm-1">
+          <mxGeometry x="480" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0hDwm_g0khshZLAf0ZS5-11" value="Abstarct Motor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AlfrjpmLpkVlpKZ16Wm-1">
+          <mxGeometry x="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0hDwm_g0khshZLAf0ZS5-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="3AlfrjpmLpkVlpKZ16Wm-1" source="0hDwm_g0khshZLAf0ZS5-12" target="0hDwm_g0khshZLAf0ZS5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0hDwm_g0khshZLAf0ZS5-12" value="Engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AlfrjpmLpkVlpKZ16Wm-1">
+          <mxGeometry x="360" y="320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0hDwm_g0khshZLAf0ZS5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="3AlfrjpmLpkVlpKZ16Wm-1" source="0hDwm_g0khshZLAf0ZS5-13" target="0hDwm_g0khshZLAf0ZS5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0hDwm_g0khshZLAf0ZS5-13" value="ElectricMotor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AlfrjpmLpkVlpKZ16Wm-1">
+          <mxGeometry x="160" y="320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0hDwm_g0khshZLAf0ZS5-14" value="Battery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3AlfrjpmLpkVlpKZ16Wm-1">
+          <mxGeometry x="690" y="220" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0hDwm_g0khshZLAf0ZS5-26" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="3AlfrjpmLpkVlpKZ16Wm-1" source="0hDwm_g0khshZLAf0ZS5-9" target="0hDwm_g0khshZLAf0ZS5-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="290" as="sourcePoint" />
+            <mxPoint x="640" y="290" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0hDwm_g0khshZLAf0ZS5-32" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0.994;exitY=0.663;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.012;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="3AlfrjpmLpkVlpKZ16Wm-1" source="0hDwm_g0khshZLAf0ZS5-6" target="0hDwm_g0khshZLAf0ZS5-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="150" as="sourcePoint" />
+            <mxPoint x="500" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DtxeDili1stCxeAPGWPM" name="Page-3">
+    <mxGraphModel dx="1038" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="zRjNkXJ7Lctw9Gv5FtJn-0" />
+        <mxCell id="zRjNkXJ7Lctw9Gv5FtJn-1" parent="zRjNkXJ7Lctw9Gv5FtJn-0" />
+        <mxCell id="OncU8VPzN60OC4lb6APE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="zRjNkXJ7Lctw9Gv5FtJn-1" source="OncU8VPzN60OC4lb6APE-0" target="OncU8VPzN60OC4lb6APE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OncU8VPzN60OC4lb6APE-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="zRjNkXJ7Lctw9Gv5FtJn-1">
+          <mxGeometry x="40" y="80" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OncU8VPzN60OC4lb6APE-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="zRjNkXJ7Lctw9Gv5FtJn-1">
+          <mxGeometry x="240" y="80" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OncU8VPzN60OC4lb6APE-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="zRjNkXJ7Lctw9Gv5FtJn-1">
+          <mxGeometry x="440" y="80" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OncU8VPzN60OC4lb6APE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="zRjNkXJ7Lctw9Gv5FtJn-1" source="OncU8VPzN60OC4lb6APE-3" target="OncU8VPzN60OC4lb6APE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OncU8VPzN60OC4lb6APE-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="zRjNkXJ7Lctw9Gv5FtJn-1">
+          <mxGeometry x="640" y="80" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OncU8VPzN60OC4lb6APE-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="zRjNkXJ7Lctw9Gv5FtJn-1">
+          <mxGeometry x="80" y="400" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OncU8VPzN60OC4lb6APE-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="zRjNkXJ7Lctw9Gv5FtJn-1">
+          <mxGeometry x="320" y="400" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OncU8VPzN60OC4lb6APE-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="zRjNkXJ7Lctw9Gv5FtJn-1">
+          <mxGeometry x="560" y="400" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OncU8VPzN60OC4lb6APE-8" value="Car" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zRjNkXJ7Lctw9Gv5FtJn-1">
+          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OncU8VPzN60OC4lb6APE-9" value="ElectricCar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zRjNkXJ7Lctw9Gv5FtJn-1">
+          <mxGeometry x="240" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OncU8VPzN60OC4lb6APE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="zRjNkXJ7Lctw9Gv5FtJn-1" source="OncU8VPzN60OC4lb6APE-10" target="OncU8VPzN60OC4lb6APE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OncU8VPzN60OC4lb6APE-10" value="Motor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zRjNkXJ7Lctw9Gv5FtJn-1">
+          <mxGeometry x="440" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OncU8VPzN60OC4lb6APE-11" value="Engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zRjNkXJ7Lctw9Gv5FtJn-1">
+          <mxGeometry x="640" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OncU8VPzN60OC4lb6APE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="zRjNkXJ7Lctw9Gv5FtJn-1" source="OncU8VPzN60OC4lb6APE-12" target="OncU8VPzN60OC4lb6APE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OncU8VPzN60OC4lb6APE-12" value="ElectricMotor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zRjNkXJ7Lctw9Gv5FtJn-1">
+          <mxGeometry x="80" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OncU8VPzN60OC4lb6APE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="zRjNkXJ7Lctw9Gv5FtJn-1" source="OncU8VPzN60OC4lb6APE-13" target="OncU8VPzN60OC4lb6APE-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="310" />
+              <mxPoint x="100" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OncU8VPzN60OC4lb6APE-13" value="Battery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zRjNkXJ7Lctw9Gv5FtJn-1">
+          <mxGeometry x="320" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OncU8VPzN60OC4lb6APE-14" value="Rechargeable" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zRjNkXJ7Lctw9Gv5FtJn-1">
+          <mxGeometry x="560" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
